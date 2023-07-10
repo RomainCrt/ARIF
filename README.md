@@ -1,3 +1,5 @@
+<img width="436" alt="ARIF_195202" src="https://github.com/RomainCrt/ARIForecast/assets/92803717/04d9ce03-acdb-436a-9d9c-0fc915b2000c">
+
 # ARIF
 Acute Respiratory Infections Forecast - 
 an IronHAck student project
